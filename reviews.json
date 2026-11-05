@@ -1,0 +1,200 @@
+[
+  {
+    "title": "TV",
+    "artist": "Kai Angel",
+    "score": "10/10",
+    "text": "",
+    "cover": "164e23411b8e4f62b72bbfc30f7bc272.webp",
+    "bonus": false,
+    "id": "r01"
+  },
+  {
+    "title": "Mulholland",
+    "artist": "Kai Angel",
+    "score": "10/10",
+    "text": "",
+    "cover": "9dee921e09ea45a2aa33ffea62831b2f.webp",
+    "bonus": false,
+    "id": "r02"
+  },
+  {
+    "title": "evil icon baby",
+    "artist": "Kai Angel",
+    "score": "3.5/5",
+    "text": "",
+    "cover": "5ddef41ed16b475f9d8f59ff0d19cd8c.webp",
+    "bonus": false,
+    "id": "r03"
+  },
+  {
+    "title": "pleasure",
+    "artist": "Kai Angel",
+    "score": "0/10",
+    "text": "",
+    "cover": "27e7648685644eeb8a642e9b5d86382a.webp",
+    "bonus": false,
+    "id": "r04"
+  },
+  {
+    "title": "NAKED",
+    "artist": "Kai Angel",
+    "score": "янчик/10",
+    "text": "",
+    "cover": "086474000d5748758318885c008619de.webp",
+    "bonus": false,
+    "id": "r05"
+  },
+  {
+    "title": "Razorblade kiss",
+    "artist": "Kai Angel",
+    "score": "9/10",
+    "text": "",
+    "cover": "567bbf14a24b40f387b8baaad95deab3.webp",
+    "bonus": false,
+    "id": "r06"
+  },
+  {
+    "title": "Pretty Girls",
+    "artist": "Kai Angel",
+    "score": "1/3",
+    "text": "",
+    "cover": "933dba1dd102459bafe1d3b8013b70d5.webp",
+    "bonus": false,
+    "id": "r07"
+  },
+  {
+    "title": "andy warhol",
+    "artist": "Kai Angel",
+    "score": "пидор/7",
+    "text": "",
+    "cover": "396bbf58f6594523a92a6ea12220325e.webp",
+    "bonus": false,
+    "id": "r08"
+  },
+  {
+    "title": "1 more",
+    "artist": "Kai Angel",
+    "score": "8/6",
+    "text": "",
+    "cover": "f870c292245042fbb23deef0ce10eba9.webp",
+    "bonus": false,
+    "id": "r09"
+  },
+  {
+    "title": "BABYLON",
+    "artist": "Kai Angel",
+    "score": "666/6666",
+    "text": "",
+    "cover": "a35f73ab91e542c2aa8a9c5ed39c5e5e.webp",
+    "bonus": false,
+    "id": "r10"
+  },
+  {
+    "title": "le royal monceau gatsby seance",
+    "artist": "Kai Angel",
+    "score": "10/10",
+    "text": "",
+    "cover": "b360e6fa822d46d79e7894d7d758c8aa.webp",
+    "bonus": false,
+    "id": "r11"
+  },
+  {
+    "title": "Limousine Music",
+    "artist": "Kai Angel",
+    "score": "-1/8",
+    "text": "",
+    "cover": "70b1850818144324ab62d7e5fce5ae4d.webp",
+    "bonus": false,
+    "id": "r12"
+  },
+  {
+    "title": "yes i glow in the dark but also i am the dark",
+    "artist": "Kai Angel",
+    "score": "нет смысла/смысла",
+    "text": "",
+    "cover": "0861ca76757041dea1c46701dffe4d6d.webp",
+    "bonus": false,
+    "id": "r13"
+  },
+  {
+    "title": "Flowers",
+    "artist": "Kai Angel",
+    "score": "6/10",
+    "text": "",
+    "cover": "b031937045e84413afd263e8b353e856.webp",
+    "bonus": false,
+    "id": "r14"
+  },
+  {
+    "title": "sting",
+    "artist": "Kai Angel",
+    "score": "5/5",
+    "text": "",
+    "cover": "59f5e0cadc4d4b049c4ab804e98765b3.jpg",
+    "bonus": true,
+    "id": "r15"
+  },
+  {
+    "title": "chrome hearts",
+    "artist": "Kai Angel",
+    "score": "11/10",
+    "text": "",
+    "cover": "a5951b17bb3e4849bd773947e5a9722b.jpg",
+    "bonus": true,
+    "id": "r16"
+  },
+  {
+    "title": "David bowie",
+    "artist": "Kai Angel",
+    "score": "larp/David bowie",
+    "text": "",
+    "cover": "464871cc7f204eb49c00fceb9ebde3d1.jpg",
+    "bonus": true,
+    "id": "r17"
+  },
+  {
+    "title": "так похуй",
+    "artist": "madk1d",
+    "score": "10/10",
+    "text": "",
+    "cover": "74e26451347343e89c7921891249f859.jpg",
+    "bonus": true,
+    "id": "r18"
+  },
+  {
+    "title": "цена",
+    "artist": "madk1d",
+    "score": "10/10",
+    "text": "",
+    "cover": "42384d0b74ab41128035a8ca41fb3288.jpg",
+    "bonus": true,
+    "id": "r19"
+  },
+  {
+    "title": "ты че обиделась",
+    "artist": "madk1d",
+    "score": "10/10",
+    "text": "",
+    "cover": "e7e851f3ee1649d2b04b50ca08a05675.jpg",
+    "bonus": true,
+    "id": "r20"
+  },
+  {
+    "title": "ПАПА",
+    "artist": "тёмный принц",
+    "score": "не10/10",
+    "text": "",
+    "cover": "9dca8c0df59944c48573973603951e33.jpg",
+    "bonus": true,
+    "id": "r21"
+  },
+  {
+    "title": "mvp",
+    "artist": "тёмный принц",
+    "score": "я(Ивашка)mvp/10",
+    "text": "",
+    "cover": "6d706a5c9c7646578828ee08333c2600.jpg",
+    "bonus": true,
+    "id": "r22"
+  }
+]

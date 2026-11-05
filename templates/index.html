@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ru"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Музыкальные рецензии</title>
+<link rel="stylesheet" href="/static/style.css"></head>
+<body>
+<header>
+ <h1 class="glitch" data-text="🎧 Музыкальные рецензии">🎧 Музыкальные рецензии</h1>
+ <div class="hbtns">
+  <button id="themeBtn" title="Тема">🌓</button>
+  <button id="authBtn">Войти</button>
+ </div>
+</header>
+<main>
+ <section class="card" id="formCard" hidden>
+  <h2>Новая рецензия</h2>
+  <form id="form">
+   <input name="title" placeholder="Название трека" required>
+   <input name="artist" placeholder="Исполнитель (пусто = Kai Angel)">
+   <input name="score" placeholder="Оценка (строка, напр. 9/10, A+, янчик/10)" required>
+   <input name="tags" placeholder="Теги: рэп хаус грусть">
+   <input name="link" placeholder="Ссылка на трек (YouTube / Spotify / SoundCloud)">
+   <textarea name="text" placeholder="Текст рецензии" rows="4"></textarea>
+   <label><input type="checkbox" name="bonus"> Bonus</label>
+   <div id="drop" class="drop">Перетащи обложку сюда или выбери файл
+    <input type="file" name="cover" accept="image/*" id="coverInput">
+    <img id="preview" hidden>
+   </div>
+   <button>Опубликовать</button>
+  </form>
+ </section>
+
+ <section class="card toolbar">
+  <input id="search" placeholder="🔍 Поиск по названию / исполнителю / тексту">
+  <select id="artistSel"><option value="">Все исполнители</option></select>
+  <select id="sortSel">
+   <option value="alpha">Оценка: по алфавиту</option>
+   <option value="title">Название А–Я</option>
+   <option value="date">Сначала новые</option>
+   <option value="num">Числовая оценка ↓</option>
+   <option value="random">Случайно</option>
+  </select>
+  <button id="randBtn">🎲 Случайный</button>
+  <a class="btn" href="/api/export?format=json">⬇ JSON</a>
+  <a class="btn" href="/api/export?format=csv">⬇ CSV</a>
+  <div id="activeTag" class="chip" hidden></div>
+ </section>
+
+ <nav class="tabs">
+  <button data-tab="all" class="on">Все</button>
+  <button data-tab="main">Основные</button>
+  <button data-tab="bonus">Bonus</button>
+ </nav>
+
+ <section class="card"><h2>Рецензии</h2><div id="reviews" class="grid"></div></section>
+ <section class="card"><h2>Топ оценок</h2><ol id="top"></ol></section>
+ <section class="card"><h2>Статистика</h2><div id="stats"></div></section>
+</main>
+
+<aside id="author" class="author">
+ <button id="toggle" title="Показать/скрыть">👤</button>
+ <div class="popup">
+  <img src="/static/author.png" alt="Автор">
+  <div class="bubble"><b>Автор рецензий</b><br><span id="quote"></span></div>
+ </div>
+</aside>
+<script src="/static/script.js"></script>
+</body></html>
+</body></html>
